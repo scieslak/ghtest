@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
-  get 'public_pages/ghtest'
 
   root 'public_pages#home'
 
